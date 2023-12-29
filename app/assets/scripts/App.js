@@ -1,6 +1,6 @@
 import '../styles/styles.css'
 import MobileMenu from './modules/MobileMenu'
-import RevealOnScroll from './modules/RevealOnScroll';
+import RevealOnScroll from './modules/RevealOnScroll'
 
 
 new RevealOnScroll(document.querySelectorAll(".feature-item"), 75);
